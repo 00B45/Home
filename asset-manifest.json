@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/github.io/home/static/css/main.e980886f.css",
+    "main.js": "/github.io/home/static/js/main.cd777135.js",
+    "static/media/back.jpg": "/github.io/home/static/media/back.685296bfafdb21fc8cb9.jpg",
+    "static/media/bishwas.JPG": "/github.io/home/static/media/bishwas.565b71b5f3531aa43b81.JPG",
+    "static/media/project2.webp": "/github.io/home/static/media/project2.45a92250306fee27746d.webp",
+    "static/media/about.jpg": "/github.io/home/static/media/about.79eb4bd3cae6d7055ad6.jpg",
+    "static/media/b.png": "/github.io/home/static/media/b.ec03ad85e593c9bade21.png",
+    "index.html": "/github.io/home/index.html",
+    "main.e980886f.css.map": "/github.io/home/static/css/main.e980886f.css.map",
+    "main.cd777135.js.map": "/github.io/home/static/js/main.cd777135.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e980886f.css",
+    "static/js/main.cd777135.js"
+  ]
+}
